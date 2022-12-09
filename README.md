@@ -4,9 +4,12 @@ Hi 👋 My name is Sagar Khatri
 Full Stack Developer
 --------------------
 
-I am a B.E. Student. Intrested in Web Development. My primary language for coding is a Python. Familiar with many programing languages like HTML, CSS, Javascript, Node.js, Python, Django, Django Rest Framework, This Website is also created in Django With PostgreSQL database
+I am a B.E. Student. Intrested in Web Development. My primary language for coding is a Python. Familiar with many programing languages like HTML, CSS, Javascript, Node.js, Python, Django, Django Rest Framework, This Website is also created in Django With PostgreSQL database.
 
-* 🖥️  See my portfolio at [Sagar khatri](http://sagarkhatri.azurewebsites.net/)
+There is Total 20 Repository in My Github Account Some of them is private due to security.
+
+
+* 🖥️  See my portfolio at [Sagar khatri](http://sagarkhatri.tech/)[![Join the chat at https://gitter.im/sagarkhatri
 * 🧠  I'm learning NodeJs and ReactJs
 
 ### Skills
