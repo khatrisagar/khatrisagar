@@ -6,7 +6,7 @@ Full Stack Developer
 
 I am a B.E. Student. Intrested in Web Development. Familiar with many programing languages like HTML, CSS, Javascript, Node.js, React.Js, Python, Django, Django Rest Framework.
 
-There is Total 21 Repository in My Github Account Some of them is private due to security.
+Most of Repository in My Github Account is private due to security.
 
 
 * 🖥️  See my portfolio at [Sagar khatri](http://sagarkhatri.tech/)
