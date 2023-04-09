@@ -10,7 +10,6 @@ Most of Repository in My Github Account is private due to security.
 
 
 * 🖥️  See my portfolio at [Sagar khatri](http://sagarkhatri.tech/)
-* 🧠  I'm learning NodeJs and ReactJs
 
 ### Skills
 
